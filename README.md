@@ -1,12 +1,11 @@
-[![MasterHead](https://i.gifer.com/75lD.gif)](https://i.gifer.com/7ZiU.gif)
-<h1 align="center">Hello 😎, I'm William Adjei Jr.</h1>
+![AI](https://user-images.githubusercontent.com/79167739/185676324-6d1831e2-5c7b-4de7-870d-e2976a0d840f.jpg)
+
+
+<h1 align="center">You Know Who I am😒! William Adjei Jr.😜</h1>
 <h3 align="center">An oriented IT professional with proven abilities to achieve IT operational excellence and ERP project success.</h3>
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/14gn.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamadjeijr&label=Profile%20views&color=0e75b6&style=flat" alt="williamadjeijr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williamadjeijr" alt="williamadjeijr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kwakufingaz" target="blank"><img src="https://img.shields.io/twitter/follow/kwakufingaz?logo=twitter&style=for-the-badge" alt="kwakufingaz" /></a> </p>
 
@@ -18,8 +17,9 @@
 
 - 📫 How to reach me **williamadjeijunior@gmail.com**
 
-- ⚡ Fun fact **I keep pressing the Space Bar, yet I'm still on Earth!**
-
+- ⚡ Fun fact: **I keep pressing the Space Bar, yet I'm still on Earth!**
+<p align=right>
+<img width=350 src="https://user-images.githubusercontent.com/79167739/185678422-494f2416-f27e-4474-834e-cfc7c2d0e0d8.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kwakufingaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kwakufingaz" height="30" width="40" /></a>
@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williamadjeijr&show_icons=true&locale=en" alt="williamadjeijr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamadjeijr&" alt="williamadjeijr" /></p>
+
