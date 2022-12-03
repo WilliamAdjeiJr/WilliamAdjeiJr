@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Robotic Process Automation**
 
-- 🌱 I’m currently learning **Deep Learning AI and Python**
+- 🌱 I’m currently learning **Deep Learning AI**
 
 - 💬 Ask me about **ERP's**
 
