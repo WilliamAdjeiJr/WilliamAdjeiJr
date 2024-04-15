@@ -1,7 +1,7 @@
 ![AI](https://user-images.githubusercontent.com/79167739/185676324-6d1831e2-5c7b-4de7-870d-e2976a0d840f.jpg)
 
 
-<h1 align="center">You Know Who I am😒! William😜</h1>
+<h1 align="center">Aut viam inveniam aut faciam</h1>
 <h3 align="center">An oriented IT professional with proven abilities to achieve IT operational excellence and ERP project success.</h3>
 
 
