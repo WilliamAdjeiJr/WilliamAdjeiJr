@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ERP's**
 
-- 📫 How to reach me **williamadjeijunior@gmail.com**
+- 📫 How to reach me **williamadjeijr@gmail.com**
 
 - ⚡ Fun fact: **I keep pressing the Space Bar, yet I'm still on Earth!**
 <p align=right>
